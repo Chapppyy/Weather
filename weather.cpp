@@ -45,5 +45,6 @@ else if (temperature < 10)
 {
     cout << "Hello " << username << ", Extremely cold, keep warm, limit outdoor activities" << endl;
 }
+
 return 0;
 }
